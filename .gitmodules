@@ -1,0 +1,3 @@
+[submodule "wei"]
+	path = wei
+	url = ssh://hexiaoyan02@icode.baidu.com:8235/baidu/hexiaoyan/wei
